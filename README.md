@@ -284,3 +284,5 @@ For issues and questions:
 ---
 
 **Happy Predicting! 🚢✨**
+
+<!-- Enhanced project documentation -->
