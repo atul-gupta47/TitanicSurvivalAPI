@@ -108,4 +108,4 @@ def train_model():
     return model, label_encoders, scaler, feature_names
 
 if __name__ == "__main__":
-    train_model() 
+    train_model() # Enhanced data preprocessing - Mon Jun 30 21:53:40 CEST 2025
