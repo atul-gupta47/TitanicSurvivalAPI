@@ -28,4 +28,4 @@ class HealthCheck(BaseModel):
 class ErrorResponse(BaseModel):
     """Schema for error responses"""
     error: str = Field(..., description="Error message")
-    detail: Optional[str] = Field(None, description="Detailed error information") 
+    detail: Optional[str] = Field(None, description="Detailed error information") # Added Pydantic models - Mon Jun 30 21:53:40 CEST 2025
