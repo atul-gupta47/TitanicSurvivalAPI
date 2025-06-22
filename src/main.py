@@ -118,4 +118,4 @@ if __name__ == "__main__":
         port=8000,
         reload=True,
         log_level="info"
-    ) 
+    ) # Enhanced API structure - Mon Jun 30 21:53:40 CEST 2025
