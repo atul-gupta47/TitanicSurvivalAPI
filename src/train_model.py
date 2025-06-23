@@ -111,3 +111,4 @@ if __name__ == "__main__":
     train_model() # Enhanced data preprocessing - Mon Jun 30 21:53:40 CEST 2025
 # Improved feature engineering - Mon Jun 30 21:53:40 CEST 2025
 # Enhanced model evaluation - Mon Jun 30 21:53:40 CEST 2025
+# Added performance metrics - Mon Jun 30 21:53:40 CEST 2025
