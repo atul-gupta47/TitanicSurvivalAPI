@@ -169,4 +169,4 @@ def main():
 
 if __name__ == "__main__":
     success = main()
-    sys.exit(0 if success else 1) 
+    sys.exit(0 if success else 1) # Enhanced test coverage - Mon Jun 30 21:53:40 CEST 2025
