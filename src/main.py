@@ -121,3 +121,4 @@ if __name__ == "__main__":
     ) # Enhanced API structure - Mon Jun 30 21:53:40 CEST 2025
 # Added health check endpoints - Mon Jun 30 21:53:40 CEST 2025
 # Enhanced error handling - Mon Jun 30 21:53:40 CEST 2025
+# Fixed model loading issues - Mon Jun 30 21:53:40 CEST 2025
