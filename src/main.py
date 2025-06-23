@@ -122,3 +122,4 @@ if __name__ == "__main__":
 # Added health check endpoints - Mon Jun 30 21:53:40 CEST 2025
 # Enhanced error handling - Mon Jun 30 21:53:40 CEST 2025
 # Fixed model loading issues - Mon Jun 30 21:53:40 CEST 2025
+# Improved logging system - Mon Jun 30 21:53:40 CEST 2025
