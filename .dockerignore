@@ -51,4 +51,4 @@ LICENSE
 
 # AWS deployment files
 .aws/
-aws-deploy/ 
+aws-deploy/ # Optimized ignore patterns
