@@ -13,3 +13,4 @@ docker push $AWS_ACCOUNT_ID.dkr.ecr.us-east-1.amazonaws.com/titanic-api:latest
 aws ecs update-service --cluster titanic-cluster --service titanic-service --force-new-deployment
 
 echo "Deployment completed"
+# Enhanced deployment script
