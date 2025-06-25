@@ -306,4 +306,4 @@ Outputs:
     Description: Name of the ECS cluster
     Value: !Ref ECSCluster
     Export:
-      Name: !Sub '${Environment}-titanic-cluster-name' 
+      Name: !Sub '${Environment}-titanic-cluster-name' # Enhanced CloudFormation template
