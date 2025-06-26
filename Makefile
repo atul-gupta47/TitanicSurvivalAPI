@@ -52,4 +52,4 @@ dev: setup run ## Development setup and run
 all: setup docker-build docker-compose ## Complete setup with Docker
 	@echo "Complete setup with Docker completed!"
 	@echo "API available at http://localhost:8000"
-	@echo "Documentation at http://localhost:8000/docs" 
+	@echo "Documentation at http://localhost:8000/docs" # Enhanced build automation
