@@ -229,4 +229,4 @@ echo ""
 
 # Show the commit history
 echo "📋 Recent commits:"
-git log --oneline -10 
+git log --oneline -10 # Added utility scripts
