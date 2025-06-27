@@ -159,3 +159,4 @@ class TitanicPredictor:
             "feature_count": len(self.feature_names),
             "features": self.feature_names
         } # Added prediction functionality - Mon Jun 30 21:53:40 CEST 2025
+# Enhanced input validation - Mon Jun 30 21:53:41 CEST 2025
