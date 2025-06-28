@@ -194,4 +194,4 @@ resource "aws_instance" "titanic_api" {
 resource "aws_cloudwatch_log_group" "titanic_logs" {
   name              = "/ec2/${var.environment}-titanic-api"
   retention_in_days = 1  # Free Tier: Keep logs for 1 day to minimize storage
-} 
+} # Enhanced Terraform configuration
