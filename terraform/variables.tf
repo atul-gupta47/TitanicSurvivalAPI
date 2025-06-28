@@ -50,4 +50,4 @@ variable "use_free_tier" {
   description = "Enable Free Tier optimizations"
   type        = bool
   default     = true
-} 
+} # Added Terraform variables
