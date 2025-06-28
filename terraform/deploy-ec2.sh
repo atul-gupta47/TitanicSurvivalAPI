@@ -85,4 +85,4 @@ echo "   • Monitor usage in AWS Billing Dashboard"
 echo ""
 
 # Clean up plan file
-rm -f tfplan 
+rm -f tfplan # Enhanced deployment script
