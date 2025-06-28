@@ -74,4 +74,4 @@ cat > /etc/logrotate.d/titanic-api << 'EOF'
     notifempty
     create 644 ec2-user ec2-user
 }
-EOF 
+EOF # Enhanced user data script
