@@ -290,3 +290,5 @@ For issues and questions:
 <!-- Added ECS deployment instructions -->
 
 <!-- Improved documentation -->
+
+<!-- Final project documentation -->
