@@ -51,3 +51,4 @@ variable "use_free_tier" {
   type        = bool
   default     = true
 } # Added Terraform variables
+# Free tier optimizations
