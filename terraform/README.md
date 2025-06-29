@@ -186,3 +186,4 @@ instance_type = "t3.small"      # $15/month
 desired_capacity = 2            # High availability
 # Add load balancer configuration
 ``` 
+<!-- Updated deployment instructions -->
