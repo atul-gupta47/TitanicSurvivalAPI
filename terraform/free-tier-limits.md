@@ -187,3 +187,4 @@ tags = {
 # Clean up unused resources
 terraform destroy  # When not needed
 ``` 
+<!-- Enhanced free tier documentation -->
